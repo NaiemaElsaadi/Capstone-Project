@@ -9,6 +9,17 @@ Application order (between 0 - first choice; and 9 last choice)
 
 Course
 33 - Biofuel Production Technologies 171 - Animation and Multimedia Design 8014 - Social Service (evening attendance) 9003 - Agronomy 9070 - Communication Design 9085 - Veterinary Nursing 9119 - Informatics Engineering 9130 - Equinculture 9147 - Management 9238 - Social Service 9254 - Tourism 9500 - Nursing 9556 - Oral Hygiene 9670 - Advertising and Marketing Management 9773 - Journalism and Communication 9853 - Basic Education 9991 - Management (evening attendance)
+   Label	      Count
+1.00 - 2.60  	  227
+2.60 - 4.20   	425
+4.20 - 5.80   	226
+5.80 - 7.40	    507
+7.40 - 9.00	    141
+9.00 - 10.60	  735
+10.60 - 12.20 	1,018
+12.20 - 13.80 	86
+13.80 - 15.40	  599
+15.40 - 17.00	  460
 
 Daytime/evening attendance
 1 – daytime 0 - evening
