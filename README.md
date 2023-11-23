@@ -64,28 +64,28 @@ https://www.kaggle.com/datasets/naveenkumar20bps1137/predict-students-dropout-an
 <br>scikit-learn
 <br>uvicorn
 - Required Python Importing Libraries
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-import matplotlib.cm as cm
-import matplotlib as mpl
-import warnings 
-warnings.filterwarnings('ignore')
-from sklearn.model_selection import train_test_split
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.tree import DecisionTreeClassifier
-from sklearn import svm 
-from sklearn.ensemble import AdaBoostClassifier
-from sklearn.neural_network import MLPClassifier
-from sklearn.linear_model import LogisticRegression
-from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, confusion_matrix, classification_report
-from sklearn.metrics import accuracy_score
-from sklearn.metrics import classification_report
-from sklearn.preprocessing import LabelEncoder
-from sklearn.metrics import roc_auc_score, precision_score, recall_score, accuracy_score, f1_score, roc_curve
-from sklearn.metrics import accuracy_score, confusion_matrix, classification_report
-%matplotlib inline
+<br>import pandas as pd
+<br>import numpy as np
+<br>import matplotlib.pyplot as plt
+<br>import seaborn as sns
+<br>import matplotlib.cm as cm
+<br>import matplotlib as mpl
+<br>import warnings 
+<br>warnings.filterwarnings('ignore')
+<br>from sklearn.model_selection import train_test_split
+<br>from sklearn.ensemble import RandomForestClassifier
+<br>from sklearn.tree import DecisionTreeClassifier
+<br>from sklearn import svm 
+<br>from sklearn.ensemble import AdaBoostClassifier
+<br>from sklearn.neural_network import MLPClassifier
+<br>from sklearn.linear_model import LogisticRegression
+<br>from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, confusion_matrix, classification_report
+<br>from sklearn.metrics import accuracy_score
+<br>from sklearn.metrics import classification_report
+<br>from sklearn.preprocessing import LabelEncoder
+<br>from sklearn.metrics import roc_auc_score, precision_score, recall_score, accuracy_score, f1_score, roc_curve
+<br>from sklearn.metrics import accuracy_score, confusion_matrix, classification_report
+<br>%matplotlib inline
 
 ## How to Run
 
@@ -98,16 +98,16 @@ from sklearn.metrics import accuracy_score, confusion_matrix, classification_rep
 5. Explore the notebooks, scripts, and data folders for detailed insights into the project.
 6. Refer to the README.md for additional information.
 5. Start your coding to do the project:
-– Phase 1: Acquire Data source
-– Phase 2: Data Preprocessing and Cleaning
-– Phase 3: Exploratory Data Analysis
-– Phase 4: Designing Predictive Models
-– Phase 5: Building Predictive Models
-– Phase 6: Model Evaluation
-– Phase 7: Final Model Selection
-– Phase 8: Results and Discussion
-– Phase 9: Conclusion
-– Phase 10: Limitations and Future Work
+<br>– Phase 1: Acquire Data source
+<br>– Phase 2: Data Preprocessing and Cleaning
+<br>– Phase 3: Exploratory Data Analysis
+<br>– Phase 4: Designing Predictive Models
+<br>– Phase 5: Building Predictive Models
+<br>– Phase 6: Model Evaluation
+<br>– Phase 7: Final Model Selection
+<br>– Phase 8: Results and Discussion
+<br>– Phase 9: Conclusion
+<br>– Phase 10: Limitations and Future Work
 
 ## Overleaf Report
 
@@ -125,13 +125,7 @@ The detailed report for this project is available on Overleaf. You can access it
 
 
 
-<br><b>Housing_producer:python housing_producer.py</b>
 
-![My Screenshot](housing_producer.png)
-
-<br><b>Housing_consumer:python housing_listener.py</b>
-
-![My Screenshot](housing_listener.png)
 
 
 ## Project Structure
@@ -184,7 +178,7 @@ This README.md serves as a guide to navigate through the project. For detailed a
 Feel free to reach out for any questions or clarifications.
 
 **My name is Naiema Elsaadi**
-**My email adrees is s556619@nwmissouri.edu**
+<br>**My email adrees is s556619@nwmissouri.edu**
 
 
 
