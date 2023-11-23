@@ -31,7 +31,6 @@ models to determine how a student will do based on these factors
 ## Overview
 
 This project focuses on Education. Education is often the most important pillar of success in the world today. Success in the classroom can be a good indicator of future success in employment, as well as be the beginning of a life of financial fulfillment. The data problems that this project hopes to analyze, are the factors that lead to student success in school vs the factors that lead to failure in school. This is significantly important in today’s world, because education is proven to be very important in the future success of most people. This Project will attempt to highlight the main factors that lead to student success and student failures, so that people can be more aware of them.
-
 This repository contains the code, data, and documentation for the Education Success Analytics project. The project aims to analyze factors influencing education success rates using a dataset obtained from Kaggle.
 
 ## Data Sources
@@ -138,7 +137,9 @@ The detailed report for this project is available on Overleaf. You can access it
 - 2_Data_Cleaning_and_Feature_Engineering.ipynb: Notebook for data cleaning and feature engineering.
 - 3_Modeling.ipynb: Notebook for applying machine learning models.
 - **scripts:**  Python scripts for specific tasks.
-- **model_training.ipynb:** Script for training machine learning models.
+- 4_model_training.ipynb: Script for training machine learning models.
+- 5_Final_Project.ipynb:  Notebook for applying machine learning for all the project.
+- **Visualizing.ipynb:** Notebook for applying machine learning Visualizing.
 - **Reports:** [Overleaf Report](https://www.overleaf.com/read/sgvfbcrvqqhn#c4ef91)
 - **text_workbooks:** txt workbooks used for data exploration and analysis.
 - **photos.png:**  Screen suts for results 
@@ -153,21 +154,21 @@ The detailed report for this project is available on Overleaf. You can access it
 
 
 ## Output and Results
-1. Extract and display feature importances and visualizea feature importance with a bar plot
+<b>1. Extract and display feature importances and visualizea feature importance with a bar plot
 <br>
 
-![My Screenshot](Feature_Importance.png)
+![My Screenshot](Results_df.png)
 ![My Screenshot](Feature_Importance_barplot.png)
 
-2. Classification Report
+<b>2. Classification Report
 ![My Screenshot](classification_report.png)
 
 
-3. Correlation of each feature
+<b>3. Correlation of each feature
 ![My Screenshot](FeatureCorrelations.png)
 
 
-4. Visualizing the combined ROC curves 
+<b>4. Visualizing the combined ROC curves 
 ![My Screenshot](ROC_Curves.png)
 
 
