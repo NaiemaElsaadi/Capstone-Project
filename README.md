@@ -2,15 +2,10 @@
 
 ## Education Success Rates based on Various factors
 
-#### This is a Machine Learning Model which predicts whether a student would achieve success or dropout from academics in his/her coming future.
+#### This is a Machine Learning Model which predicts whether a student would achieve succes (graduate or drop out) in a learning environment.
 
 
-This project will explore the significance that specific demo-
-graphic, geographic, psychographic, and financial factors have on a stu-
-dent’s academic performance by looking at data sources that show the
-academic performance of several students in relation to the mentioned
-factors. This project will use data analysis, data cleaning, and predictive
-models to determine how a student will do based on these factors
+This project will explore the significance that specific demographic, geographic, psychographic, and financial factors have on a student’s academic performance by looking at data sources that show the academic performance of several students in relation to the mentioned factors. This project will use data analysis, data cleaning, and predictive models to determine how a student will do based on these factors.
 
 <br>Author: Naiema Elsaadi
 <br>Date: November 21, 2023 
@@ -90,13 +85,13 @@ https://www.kaggle.com/datasets/naveenkumar20bps1137/predict-students-dropout-an
 
 <b>Follow these steps to run the project:</b>
 
-1. Clone the repository to your local machine:
-2. Navigate to the project directory:
-3. Open anaconda prompt (miniconda3) and clone your file by cd and copy your path  :
-4. Run jupyter lab  
+1. Clone the repository to your local machine.
+2. Navigate to the project directory.
+3. Open anaconda prompt (miniconda3) and clone your file by entering cd and pasting the copied path.
+4. Run jupyter lab.
 5. Explore the notebooks, scripts, and data folders for detailed insights into the project.
 6. Refer to the README.md for additional information.
-5. Start your coding to do the project:
+5. Start the coding for the project.
 <br>– Phase 1: Acquire Data source
 <br>– Phase 2: Data Preprocessing and Cleaning
 <br>– Phase 3: Exploratory Data Analysis
@@ -110,7 +105,7 @@ https://www.kaggle.com/datasets/naveenkumar20bps1137/predict-students-dropout-an
 
 ## Overleaf Report
 
-The detailed report for this project is available on Overleaf. You can access it and viewed on [here](https://www.overleaf.com/read/sgvfbcrvqqhn#c4ef91).
+The detailed report for this project is available on Overleaf. You can access it and view it [here](https://www.overleaf.com/read/sgvfbcrvqqhn#c4ef91).
 
 
 
@@ -126,23 +121,22 @@ The detailed report for this project is available on Overleaf. You can access it
 
 
 
-
 ## Project Structure
 
 
 <b>The project structure is organized as follows:</b>
 -  **data :** Contains the dataset used in the project (data.csv).
 - **notebooks:** Jupyter notebooks for data analysis and modeling.
+- **scripts:**  Python scripts for specific tasks.
 - 1_Exploratory_Data_Analysis.ipynb: Notebook for exploratory data analysis.
 - 2_Data_Cleaning_and_Feature_Engineering.ipynb: Notebook for data cleaning and feature engineering.
 - 3_Modeling.ipynb: Notebook for applying machine learning models.
-- **scripts:**  Python scripts for specific tasks.
 - 4_model_training.ipynb: Script for training machine learning models.
-- 5_Final_Project.ipynb:  Notebook for applying machine learning for all the project.
-- **Visualizing.ipynb:** Notebook for applying machine learning Visualizing.
+- 5_Visualizing.ipynb: Notebook for visualizing the machine learning.
+- **Final_Project.ipynb:**  Notebook for applying machine learning to the project.
 - **Reports:** [Overleaf Report](https://www.overleaf.com/read/sgvfbcrvqqhn#c4ef91)
-- **text_workbooks:** txt workbooks used for data exploration and analysis.
-- **photos.png:**  Screen suts for results 
+- **text_workbooks.txt:** text workbooks used for data exploration and analysis.
+- **photos.png:**  Screenshots for the results 
 - **README.md:** The main documentation file that introduces the project, explains the structure, and provides relevant links.
 
 ## Screenshots
@@ -154,7 +148,7 @@ The detailed report for this project is available on Overleaf. You can access it
 
 
 ## Output and Results
-<b>1. Extract and display feature importances and visualizea feature importance with a bar plot
+<b>1. Extract and display feature importances and visualize feature importances with a bar plot
 <br>
 
 ![My Screenshot](Results_df.png)
@@ -178,14 +172,13 @@ The detailed report for this project is available on Overleaf. You can access it
 
 
 
-
 ## Conclusion
 This README.md serves as a guide to navigate through the project. For detailed analysis, findings, and visualizations, please refer to the Overleaf report linked above.
 
 Feel free to reach out for any questions or clarifications.
 
 **My name is Naiema Elsaadi**
-<br>**My email adrees is s556619@nwmissouri.edu**
+<br>**My email address is s556619@nwmissouri.edu**
 
 
 
