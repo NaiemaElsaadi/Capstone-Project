@@ -147,8 +147,8 @@ The detailed report for this project is available on Overleaf. You can access it
 ## Screenshots
 
 ## How It Works
+![Data Analysis](Modeling.png)
 
-![My Screenshot](Modeling.png)
 
 ## Output and Results
 1. Extract and display feature importances and visualizea feature importance with a bar plot
