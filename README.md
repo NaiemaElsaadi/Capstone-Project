@@ -156,11 +156,11 @@ The detailed report for this project is available on Overleaf. You can access it
 1. Extract and display feature importances and visualizea feature importance with a bar plot
 <br>
 
-![My Screenshot](Feature Importance.png)
-![My Screenshot](Feature Importance barplot.png)
+![My Screenshot](Feature_Importance.png)
+![My Screenshot](Feature_Importance_barplot.png)
 
 2. Classification Report
-![My Screenshot](classification report.png)
+![My Screenshot](classification_report.png)
 
 
 3. Correlation of each feature
@@ -168,7 +168,7 @@ The detailed report for this project is available on Overleaf. You can access it
 
 
 4. Visualizing the combined ROC curves 
-![My Screenshot](ROC Curves.png)
+![My Screenshot](ROC_Curves.png)
 
 
 
