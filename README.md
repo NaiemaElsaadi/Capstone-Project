@@ -147,22 +147,25 @@ The detailed report for this project is available on Overleaf. You can access it
 ## Screenshots
 
 ## How It Works
+
  ![Sample Image](modeling.png)
- ![Streaming in Action](modeling.png)
+ 
 
 
 ## Output and Results
 1. Extract and display feature importances and visualizea feature importance with a bar plot
+<br>
+
 ![My Screenshot](Feature Importance.png)
 ![My Screenshot](Feature Importance barplot.png)
 
 2. Classification Report
 ![My Screenshot](classification report.png)
-![Streaming in Action](classification report.png)
+
 
 3. Correlation of each feature
 ![My Screenshot](FeatureCorrelations.png)
-![Streaming in Action](FeatureCorrelations.png)
+
 
 4. Visualizing the combined ROC curves 
 ![My Screenshot](ROC Curves.png)
