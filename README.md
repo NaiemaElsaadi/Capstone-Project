@@ -147,7 +147,8 @@ The detailed report for this project is available on Overleaf. You can access it
 ## Screenshots
 
 ## How It Works
-![Data Analysis](Modeling.png)
+ ![Sample Image](Modeling.png)
+ ![Data Analysis](Modeling.png)
 
 
 ## Output and Results
