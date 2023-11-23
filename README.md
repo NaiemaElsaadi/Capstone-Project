@@ -148,7 +148,7 @@ The detailed report for this project is available on Overleaf. You can access it
 
 ## How It Works
  ![Sample Image](modeling.png)
- ![Data Analysis](Modeling.png)
+ ![Streaming in Action](modeling.png)
 
 
 ## Output and Results
@@ -158,9 +158,11 @@ The detailed report for this project is available on Overleaf. You can access it
 
 2. Classification Report
 ![My Screenshot](classification report.png)
+![Streaming in Action](classification report.png)
 
 3. Correlation of each feature
 ![My Screenshot](FeatureCorrelations.png)
+![Streaming in Action](FeatureCorrelations.png)
 
 4. Visualizing the combined ROC curves 
 ![My Screenshot](ROC Curves.png)
