@@ -145,10 +145,12 @@ The detailed report for this project is available on Overleaf. You can access it
 
 
 ## Output and Results
+
+![My Screenshot](Results_df.png)
 <b>1. Extract and display feature importances and visualize feature importances with a bar plot
 <br>
 
-![My Screenshot](Results_df.png)
+
 ![My Screenshot](Feature_Importance_barplot.png)
 
 <b>2. Classification Report
