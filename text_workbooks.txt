@@ -1,0 +1,2242 @@
+Marital status
+1 – single 2 – married 3 – widower 4 – divorced 5 – facto union 6 – legally separated
+
+Application mode
+1 - 1st phase - general contingent 2 - Ordinance No. 612/93 5 - 1st phase - special contingent (Azores Island) 7 - Holders of other higher courses 10 - Ordinance No. 854-B/99 15 - International student (bachelor) 16 - 1st phase - special contingent (Madeira Island) 17 - 2nd phase - general contingent 18 - 3rd phase - general contingent 26 - Ordinance No. 533-A/99, item b2) (Different Plan) 27 - Ordinance No. 533-A/99, item b3 (Other Institution) 39 - Over 23 years old 42 - Transfer 43 - Change of course 44 - Technological specialization diploma holders 51 - Change of institution/course 53 - Short cycle diploma holders 57 - Change of institution/course (International)
+
+Application order
+Application order (between 0 - first choice; and 9 last choice)
+
+Course
+33 - Biofuel Production Technologies
+171 - Animation and Multimedia Design 
+8014 - Social Service (evening attendance) 
+9003 - Agronomy
+9070 - Communication Design
+9085 - Veterinary Nursing
+9119 - Informatics Engineering 
+9130 - Equinculture
+9147 - Management
+9238 - Social Service 
+9254 - Tourism 
+9500 - Nursing
+9556 - Oral Hygiene
+9670 - Advertising and Marketing Management
+9773 - Journalism and Communication 
+9853 - Basic Education
+9991 - Management (evening attendance)
+
+Daytime/evening attendance
+1 – daytime 0 - evening
+
+Previous qualification
+1 - Secondary education 2 - Higher education - bachelor's degree 3 - Higher education - degree 4 - Higher education - master's 5 - Higher education - doctorate 6 - Frequency of higher education 9 - 12th year of schooling - not completed 10 - 11th year of schooling - not completed 12 - Other - 11th year of schooling 14 - 10th year of schooling 15 - 10th year of schooling - not completed 19 - Basic education 3rd cycle (9th/10th/11th year) or equiv. 38 - Basic education 2nd cycle (6th/7th/8th year) or equiv. 39 - Technological specialization course 40 - Higher education - degree (1st cycle) 42 - Professional higher technical course 43 - Higher education - master (2nd cycle)
+
+Nacionality
+1 - Portuguese; 2 - German; 6 - Spanish; 11 - Italian; 13 - Dutch; 14 - English; 17 - Lithuanian; 21 - Angolan; 22 - Cape Verdean; 24 - Guinean; 25 - Mozambican; 26 - Santomean; 32 - Turkish; 41 - Brazilian; 62 - Romanian; 100 - Moldova (Republic of); 101 - Mexican; 103 - Ukrainian; 105 - Russian; 108 - Cuban; 109 - Colombian
+
+Mother's qualification
+1 - Secondary Education - 12th Year of Schooling or Eq. 2 - Higher Education - Bachelor's Degree 3 - Higher Education - Degree 4 - Higher Education - Master's 5 - Higher Education - Doctorate 6 - Frequency of Higher Education 9 - 12th Year of Schooling - Not Completed 10 - 11th Year of Schooling - Not Completed 11 - 7th Year (Old) 12 - Other - 11th Year of Schooling 14 - 10th Year of Schooling 18 - General commerce course 19 - Basic Education 3rd Cycle (9th/10th/11th Year) or Equiv. 22 - Technical-professional course 26 - 7th year of schooling 27 - 2nd cycle of the general high school course 29 - 9th Year of Schooling - Not Completed 30 - 8th year of schooling 34 - Unknown 35 - Can't read or write 36 - Can read without having a 4th year of schooling 37 - Basic education 1st cycle (4th/5th year) or equiv. 38 - Basic Education 2nd Cycle (6th/7th/8th Year) or Equiv. 39 - Technological specialization course 40 - Higher education - degree (1st cycle) 41 - Specialized higher studies course 42 - Professional higher technical course 43 - Higher Education - Master (2nd cycle) 44 - Higher Education - Doctorate (3rd cycle)
+
+Father's qualification
+1 - Secondary Education - 12th Year of Schooling or Eq. 2 - Higher Education - Bachelor's Degree 3 - Higher Education - Degree 4 - Higher Education - Master's 5 - Higher Education - Doctorate 6 - Frequency of Higher Education 9 - 12th Year of Schooling - Not Completed 10 - 11th Year of Schooling - Not Completed 11 - 7th Year (Old) 12 - Other - 11th Year of Schooling 13 - 2nd year complementary high school course 14 - 10th Year of Schooling 18 - General commerce course 19 - Basic Education 3rd Cycle (9th/10th/11th Year) or Equiv. 20 - Complementary High School Course 22 - Technical-professional course 25 - Complementary High School Course - not concluded 26 - 7th year of schooling 27 - 2nd cycle of the general high school course 29 - 9th Year of Schooling - Not Completed 30 - 8th year of schooling 31 - General Course of Administration and Commerce 33 - Supplementary Accounting and Administration 34 - Unknown 35 - Can't read or write 36 - Can read without having a 4th year of schooling 37 - Basic education 1st cycle (4th/5th year) or equiv. 38 - Basic Education 2nd Cycle (6th/7th/8th Year) or Equiv. 39 - Technological specialization course 40 - Higher education - degree (1st cycle) 41 - Specialized higher studies course 42 - Professional higher technical course 43 - Higher Education - Master (2nd cycle) 44 - Higher Education - Doctorate (3rd cycle)
+
+Mother's occupation
+0 - Student 1 - Representatives of the Legislative Power and Executive Bodies, Directors, Directors and Executive Managers 2 - Specialists in Intellectual and Scientific Activities 3 - Intermediate Level Technicians and Professions 4 - Administrative staff 5 - Personal Services, Security and Safety Workers and Sellers 6 - Farmers and Skilled Workers in Agriculture, Fisheries and Forestry 7 - Skilled Workers in Industry, Construction and Craftsmen 8 - Installation and Machine Operators and Assembly Workers 9 - Unskilled Workers 10 - Armed Forces Professions 90 - Other Situation 99 - (blank) 122 - Health professionals 123 - teachers 125 - Specialists in information and communication technologies (ICT) 131 - Intermediate level science and engineering technicians and professions 132 - Technicians and professionals, of intermediate level of health 134 - Intermediate level technicians from legal, social, sports, cultural and similar services 141 - Office workers, secretaries in general and data processing operators 143 - Data, accounting, statistical, financial services and registry-related operators 144 - Other administrative support staff 151 - personal service workers 152 - sellers 153 - Personal care workers and the like 171 - Skilled construction workers and the like, except electricians 173 - Skilled workers in printing, precision instrument manufacturing, jewelers, artisans and the like 175 - Workers in food processing, woodworking, clothing and other industries and crafts 191 - cleaning workers 192 - Unskilled workers in agriculture, animal production, fisheries and forestry 193 - Unskilled workers in extractive industry, construction, manufacturing and transport 194 - Meal preparation assistants
+
+Father's occupation
+0 - Student 1 - Representatives of the Legislative Power and Executive Bodies, Directors, Directors and Executive Managers 2 - Specialists in Intellectual and Scientific Activities 3 - Intermediate Level Technicians and Professions 4 - Administrative staff 5 - Personal Services, Security and Safety Workers and Sellers 6 - Farmers and Skilled Workers in Agriculture, Fisheries and Forestry 7 - Skilled Workers in Industry, Construction and Craftsmen 8 - Installation and Machine Operators and Assembly Workers 9 - Unskilled Workers 10 - Armed Forces Professions 90 - Other Situation 99 - (blank) 101 - Armed Forces Officers 102 - Armed Forces Sergeants 103 - Other Armed Forces personnel 112 - Directors of administrative and commercial services 114 - Hotel, catering, trade and other services directors 121 - Specialists in the physical sciences, mathematics, engineering and related techniques 122 - Health professionals 123 - teachers 124 - Specialists in finance, accounting, administrative organization, public and commercial relations 131 - Intermediate level science and engineering technicians and professions 132 - Technicians and professionals, of intermediate level of health 134 - Intermediate level technicians from legal, social, sports, cultural and similar services 135 - Information and communication technology technicians 141 - Office workers, secretaries in general and data processing operators 143 - Data, accounting, statistical, financial services and registry-related operators 144 - Other administrative support staff 151 - personal service workers 152 - sellers 153 - Personal care workers and the like 154 - Protection and security services personnel 161 - Market-oriented farmers and skilled agricultural and animal production workers 163 - Farmers, livestock keepers, fishermen, hunters and gatherers, subsistence 171 - Skilled construction workers and the like, except electricians 172 - Skilled workers in metallurgy, metalworking and similar 174 - Skilled workers in electricity and electronics 175 - Workers in food processing, woodworking, clothing and other industries and crafts 181 - Fixed plant and machine operators 182 - assembly workers 183 - Vehicle drivers and mobile equipment operators 192 - Unskilled workers in agriculture, animal production, fisheries and forestry 193 - Unskilled workers in extractive industry, construction, manufacturing and transport 194 - Meal preparation assistants 195 - Street vendors (except food) and street service providers
+
+Displaced
+Admission grade (between 0 and 200)
+
+Educational special needs
+1 – yes 0 – no
+
+Debtor
+1 – yes 0 – no
+
+Tuition fees up to date
+1 – yes 0 – no
+
+Gender
+1 – male 0 – female
+
+Scholarship holder
+1 – yes 0 – no
+
+Age at enrollment
+Age of studend at enrollment
+
+International
+1 – yes 0 – no
+
+Curricular units 1st sem (credited)
+Number of curricular units credited in the 1st semester
+
+Curricular units 1st sem (enrolled)
+Number of curricular units enrolled in the 1st semester
+
+Curricular units 1st sem (evaluations)
+Number of evaluations to curricular units in the 1st semester
+
+Curricular units 1st sem (approved)
+Number of curricular units approved in the 1st semester
+
+Curricular units 1st sem (grade)
+Grade average in the 1st semester (between 0 and 20)
+
+Curricular units 1st sem (without evaluations)
+Number of curricular units without evalutions in the 1st semester
+
+Curricular units 2nd sem (credited)
+Number of curricular units credited in the 2nd semester
+
+Curricular units 2nd sem (enrolled)
+Number of curricular units enrolled in the 2nd semester
+
+Curricular units 2nd sem (evaluations)
+Number of evaluations to curricular units in the 2nd semester
+
+Curricular units 2nd sem (approved)
+Number of curricular units approved in the 2nd semester
+
+Curricular units 2nd sem (grade)
+Grade average in the 2nd semester (between 0 and 20)
+
+Curricular units 2nd sem (without evaluations)
+Number of curricular units without evalutions in the 1st semester
+
+Unemployment rate
+Unemployment rate (%)
+
+Inflation rate
+Inflation rate (%)
+
+GDP
+GDP
+
+Target
+Target. The problem is formulated as a three category classification task (dropout, enrolled, and graduate) at the end of the normal duration of the course
+
+Label	Count
+1.00 - 1.50	3,919
+2.00 - 2.50	379
+3.00 - 3.50	4
+4.00 - 4.50	91
+5.00 - 5.50	25
+5.50 - 6.00	6
+1
+6
+Label	Count
+1.00 - 2.70	1,711
+2.70 - 4.40	155
+4.40 - 6.10	40
+6.10 - 7.80	38
+7.80 - 9.50	996
+9.50 - 11.20	2
+11.20 - 12.90	785
+12.90 - 14.60	389
+14.60 - 16.30	272
+16.30 - 18.00	36
+1
+18
+Label	Count
+0.00 - 0.90	1
+0.90 - 1.80	3,026
+1.80 - 2.70	547
+2.70 - 3.60	309
+3.60 - 4.50	249
+4.50 - 5.40	154
+5.40 - 6.30	137
+8.10 - 9.00	1
+0
+9
+Label	Count
+1.00 - 2.60	227
+2.60 - 4.20	425
+4.20 - 5.80	226
+5.80 - 7.40	507
+7.40 - 9.00	141
+9.00 - 10.60	735
+10.60 - 12.20	1,018
+12.20 - 13.80	86
+13.80 - 15.40	599
+15.40 - 17.00	460
+1
+17
+Label	Count
+0.00 - 0.10	483
+0.90 - 1.00	3,941
+0
+1
+Label	Count
+1.00 - 2.60	3,740
+2.60 - 4.20	134
+4.20 - 5.80	1
+5.80 - 7.40	27
+7.40 - 9.00	4
+9.00 - 10.60	46
+10.60 - 12.20	164
+12.20 - 13.80	7
+13.80 - 15.40	259
+15.40 - 17.00	42
+1
+17
+Label	Count
+1.00 - 3.00	4,316
+3.00 - 5.00	16
+5.00 - 7.00	2
+7.00 - 9.00	3
+9.00 - 11.00	18
+11.00 - 13.00	16
+13.00 - 15.00	39
+15.00 - 17.00	5
+17.00 - 19.00	5
+19.00 - 21.00	4
+1
+21
+Label	Count
+1.00 - 3.80	1,590
+3.80 - 6.60	74
+6.60 - 9.40	14
+9.40 - 12.20	45
+12.20 - 15.00	954
+15.00 - 17.80	5
+17.80 - 20.60	136
+20.60 - 23.40	1,574
+23.40 - 26.20	23
+26.20 - 29.00	9
+1
+29
+Label	Count
+1.00 - 4.30	1,293
+4.30 - 7.60	25
+7.60 - 10.90	50
+10.90 - 14.20	974
+14.20 - 17.50	6
+17.50 - 20.80	6
+20.80 - 24.10	118
+24.10 - 27.40	1,219
+27.40 - 30.70	727
+30.70 - 34.00	6
+1
+34
+Label	Count
+1.00 - 4.10	915
+4.10 - 7.20	1,438
+7.20 - 10.30	1,885
+10.30 - 13.40	91
+13.40 - 16.50	10
+16.50 - 19.60	8
+19.60 - 22.70	17
+22.70 - 25.80	7
+25.80 - 28.90	7
+28.90 - 32.00	46
+1
+32
+Label	Count
+1.00 - 5.50	1,229
+5.50 - 10.00	1,742
+10.00 - 14.50	1,361
+14.50 - 19.00	9
+19.00 - 23.50	8
+23.50 - 28.00	6
+28.00 - 32.50	15
+32.50 - 37.00	15
+37.00 - 41.50	12
+41.50 - 46.00	27
+1
+46
+Label	Count
+0.00 - 0.10	1,998
+0.90 - 1.00	2,426
+0
+1
+Label	Count
+0.00 - 0.10	4,373
+0.90 - 1.00	51
+0
+1
+Label	Count
+0.00 - 0.10	3,921
+0.90 - 1.00	503
+0
+1
+Label	Count
+0.00 - 0.10	528
+0.90 - 1.00	3,896
+0
+1
+Label	Count
+0.00 - 0.10	2,868
+0.90 - 1.00	1,556
+0
+1
+Label	Count
+0.00 - 0.10	3,325
+0.90 - 1.00	1,099
+0
+1
+Label	Count
+17.00 - 22.30	3,047
+22.30 - 27.60	517
+27.60 - 32.90	314
+32.90 - 38.20	260
+38.20 - 43.50	130
+43.50 - 48.80	84
+48.80 - 54.10	54
+54.10 - 59.40	13
+59.40 - 64.70	4
+64.70 - 70.00	1
+17
+70
+Label	Count
+0.00 - 0.10	4,314
+0.90 - 1.00	110
+0
+1
+Label	Count
+0.00 - 2.00	3,932
+2.00 - 4.00	163
+4.00 - 6.00	88
+6.00 - 8.00	92
+8.00 - 10.00	58
+10.00 - 12.00	32
+12.00 - 14.00	25
+14.00 - 16.00	20
+16.00 - 18.00	6
+18.00 - 20.00	8
+0
+20
+Label	Count
+0.00 - 2.60	196
+2.60 - 5.20	1,041
+5.20 - 7.80	2,566
+7.80 - 10.40	384
+10.40 - 13.00	111
+13.00 - 15.60	67
+15.60 - 18.20	48
+18.20 - 20.80	2
+20.80 - 23.40	8
+23.40 - 26.00	1
+0
+26
+Label	Count
+0.00 - 4.50	388
+4.50 - 9.00	2,312
+9.00 - 13.50	1,344
+13.50 - 18.00	255
+18.00 - 22.50	92
+22.50 - 27.00	22
+27.00 - 31.50	6
+31.50 - 36.00	2
+36.00 - 40.50	1
+40.50 - 45.00	2
+0
+45
+Label	Count
+0.00 - 2.60	1,005
+2.60 - 5.20	1,425
+5.20 - 7.80	1,642
+7.80 - 10.40	172
+10.40 - 13.00	93
+13.00 - 15.60	47
+15.60 - 18.20	30
+18.20 - 20.80	5
+20.80 - 23.40	4
+23.40 - 26.00	1
+0
+26
+Label	Count
+0.00 - 1.89	718
+9.44 - 11.32	548
+11.32 - 13.21	1,890
+13.21 - 15.10	1,108
+15.10 - 16.99	147
+16.99 - 18.88	13
+0
+18.9
+Label	Count
+0.00 - 1.20	4,283
+1.20 - 2.40	79
+2.40 - 3.60	23
+3.60 - 4.80	15
+4.80 - 6.00	5
+6.00 - 7.20	12
+7.20 - 8.40	4
+9.60 - 10.80	1
+10.80 - 12.00	2
+0
+12
+Label	Count
+0.00 - 1.90	4,001
+1.90 - 3.80	141
+3.80 - 5.70	146
+5.70 - 7.60	42
+7.60 - 9.50	27
+9.50 - 11.40	33
+11.40 - 13.30	23
+13.30 - 15.20	6
+15.20 - 17.10	2
+17.10 - 19.00	3
+0
+19
+Label	Count
+0.00 - 2.30	188
+2.30 - 4.60	20
+4.60 - 6.90	2,967
+6.90 - 9.20	1,015
+9.20 - 11.50	108
+11.50 - 13.80	81
+13.80 - 16.10	25
+16.10 - 18.40	14
+18.40 - 20.70	3
+20.70 - 23.00	3
+0
+23
+Label	Count
+0.00 - 3.30	410
+3.30 - 6.60	912
+6.60 - 9.90	1,811
+9.90 - 13.20	962
+13.20 - 16.50	220
+16.50 - 19.80	66
+19.80 - 23.10	32
+23.10 - 26.40	7
+26.40 - 29.70	3
+29.70 - 33.00	1
+0
+33
+Label	Count
+0.00 - 2.00	984
+2.00 - 4.00	483
+4.00 - 6.00	1,140
+6.00 - 8.00	1,296
+8.00 - 10.00	357
+10.00 - 12.00	86
+12.00 - 14.00	55
+14.00 - 16.00	6
+16.00 - 18.00	10
+18.00 - 20.00	7
+0
+20
+Label	Count
+0.00 - 1.86	870
+9.29 - 11.14	449
+11.14 - 13.00	1,589
+13.00 - 14.86	1,269
+14.86 - 16.71	234
+16.71 - 18.57	13
+0
+18.6
+Label	Count
+0.00 - 1.20	4,282
+1.20 - 2.40	48
+2.40 - 3.60	35
+3.60 - 4.80	21
+4.80 - 6.00	17
+6.00 - 7.20	13
+7.20 - 8.40	6
+10.80 - 12.00	2
+0
+12
+Label	Count
+7.60 - 8.46	571
+8.46 - 9.32	368
+9.32 - 10.18	533
+10.18 - 11.04	525
+11.04 - 11.90	414
+11.90 - 12.76	864
+13.62 - 14.48	390
+15.34 - 16.20	759
+7.6
+16.2
+Label	Count
+-0.80 - -0.35	533
+-0.35 - 0.10	390
+0.10 - 0.55	807
+0.55 - 1.00	414
+1.00 - 1.45	893
+2.35 - 2.80	968
+3.25 - 3.70	419
+-0.8
+3.7
+Label	Count
+-4.06 - -3.30	397
+-3.30 - -2.55	533
+-1.79 - -1.03	419
+-1.03 - -0.28	362
+-0.28 - 0.48	571
+0.48 - 1.24	390
+1.24 - 2.00	970
+2.00 - 2.75	414
+2.75 - 3.51	368
+-4.06
+3.51
+Graduate
+50%
+Dropout
+32%
+Other (794)
+18%
+1
+8
+5
+2
+1
+1
+1
+13
+10
+6
+10
+1
+0
+0
+1
+1
+0
+20
+0
+0
+0
+0
+0
+0.0
+0
+0
+0
+0
+0
+0.0
+0
+10.8
+1.4
+1.74
+Dropout
+1
+6
+1
+11
+1
+1
+1
+1
+3
+4
+4
+1
+0
+0
+0
+1
+0
+19
+0
+0
+6
+6
+6
+14.0
+0
+0
+6
+6
+6
+13.666666666666666
+0
+13.9
+-0.3
+0.79
+Graduate
+1
+1
+5
+5
+1
+1
+1
+22
+27
+10
+10
+1
+0
+0
+0
+1
+0
+19
+0
+0
+6
+0
+0
+0.0
+0
+0
+6
+0
+0
+0.0
+0
+10.8
+1.4
+1.74
+Dropout
+1
+8
+2
+15
+1
+1
+1
+23
+27
+6
+4
+1
+0
+0
+1
+0
+0
+20
+0
+0
+6
+8
+6
+13.428571428571429
+0
+0
+6
+10
+5
+12.4
+0
+9.4
+-0.8
+-3.12
+Graduate
+2
+12
+1
+3
+0
+1
+1
+22
+28
+10
+10
+0
+0
+0
+1
+0
+0
+45
+0
+0
+6
+9
+5
+12.333333333333334
+0
+0
+6
+6
+6
+13.0
+0
+13.9
+-0.3
+0.79
+Graduate
+2
+12
+1
+17
+0
+12
+1
+22
+27
+10
+8
+0
+0
+1
+1
+1
+0
+50
+0
+0
+5
+10
+5
+11.857142857142858
+0
+0
+5
+17
+5
+11.5
+5
+16.2
+0.3
+-0.92
+Graduate
+1
+1
+1
+12
+1
+1
+1
+13
+28
+8
+11
+1
+0
+0
+1
+0
+1
+18
+0
+0
+7
+9
+7
+13.3
+0
+0
+8
+8
+8
+14.345
+0
+15.5
+2.8
+-4.06
+Graduate
+1
+9
+4
+11
+1
+1
+1
+22
+27
+10
+10
+1
+0
+0
+0
+1
+0
+22
+0
+0
+5
+5
+0
+0.0
+0
+0
+5
+5
+0
+0.0
+0
+15.5
+2.8
+-4.06
+Dropout
+1
+1
+3
+10
+1
+1
+15
+1
+1
+10
+10
+0
+0
+0
+1
+0
+1
+21
+1
+0
+6
+8
+6
+13.875
+0
+0
+6
+7
+6
+14.142857142857142
+0
+16.2
+0.3
+-0.92
+Graduate
+1
+1
+1
+10
+1
+1
+1
+1
+14
+5
+8
+1
+0
+1
+0
+0
+0
+18
+0
+0
+6
+9
+5
+11.4
+0
+0
+6
+14
+2
+13.5
+0
+8.9
+1.4
+3.51
+Dropout
+1
+1
+1
+14
+1
+1
+1
+23
+14
+6
+8
+1
+0
+0
+1
+0
+0
+18
+0
+0
+6
+6
+6
+12.333333333333334
+0
+0
+6
+7
+5
+14.2
+0
+13.9
+-0.3
+0.79
+Graduate
+1
+1
+1
+12
+1
+1
+1
+13
+28
+10
+10
+1
+0
+0
+1
+0
+1
+18
+0
+0
+8
+8
+7
+13.214285714285714
+0
+0
+8
+8
+7
+13.214285714285714
+0
+12.7
+3.7
+-1.7
+Graduate
+1
+1
+2
+16
+1
+1
+1
+13
+27
+5
+10
+1
+0
+0
+1
+0
+0
+19
+0
+0
+6
+6
+0
+0.0
+0
+0
+6
+0
+0
+0.0
+0
+12.7
+3.7
+-1.7
+Dropout
+1
+17
+1
+11
+1
+16
+1
+1
+1
+5
+8
+1
+0
+0
+1
+0
+1
+21
+0
+0
+6
+7
+6
+10.571428571428571
+0
+0
+6
+8
+5
+11.0
+0
+8.9
+1.4
+3.51
+Graduate
+1
+1
+1
+6
+1
+1
+1
+23
+27
+6
+6
+1
+0
+0
+1
+0
+1
+18
+0
+0
+5
+7
+4
+13.25
+0
+0
+5
+5
+5
+12.0
+0
+10.8
+1.4
+1.74
+Graduate
+1
+1
+1
+15
+1
+1
+1
+13
+27
+10
+4
+1
+0
+0
+1
+0
+0
+20
+0
+0
+6
+6
+5
+13.2
+0
+0
+6
+7
+0
+0.0
+0
+15.5
+2.8
+-4.06
+Dropout
+1
+9
+1
+10
+1
+1
+1
+13
+28
+6
+9
+1
+0
+0
+1
+0
+0
+18
+0
+0
+6
+10
+1
+12.0
+0
+0
+6
+14
+2
+11.0
+0
+10.8
+1.4
+1.74
+Enrolled
+1
+8
+2
+12
+1
+1
+1
+13
+1
+6
+5
+1
+0
+0
+1
+0
+0
+18
+0
+0
+7
+8
+7
+13.30625
+0
+0
+8
+8
+8
+14.545
+0
+15.5
+2.8
+-4.06
+Graduate
+1
+1
+1
+8
+1
+1
+1
+3
+14
+4
+6
+1
+0
+0
+1
+0
+0
+20
+0
+0
+5
+8
+4
+12.5
+1
+0
+5
+8
+4
+12.25
+2
+10.8
+1.4
+1.74
+Graduate
+1
+1
+1
+16
+1
+1
+1
+13
+14
+8
+8
+1
+0
+0
+1
+0
+0
+18
+0
+0
+7
+7
+6
+11.666666666666666
+0
+0
+7
+8
+6
+13.5
+0
+16.2
+0.3
+-0.92
+Enrolled
+1
+1
+3
+2
+1
+1
+1
+1
+1
+10
+9
+0
+0
+0
+1
+0
+1
+21
+0
+0
+0
+0
+0
+0.0
+0
+0
+0
+0
+0
+0.0
+0
+11.1
+0.6
+2.02
+Graduate
+1
+9
+4
+13
+1
+1
+1
+1
+28
+5
+8
+1
+0
+0
+1
+0
+0
+20
+0
+0
+7
+14
+7
+11.4375
+0
+0
+8
+9
+8
+11.425
+0
+12.7
+3.7
+-1.7
+Enrolled
+1
+1
+4
+12
+1
+1
+1
+13
+14
+2
+2
+1
+0
+0
+1
+0
+0
+18
+0
+0
+8
+12
+7
+12.857142857142858
+0
+0
+8
+12
+7
+12.857142857142858
+0
+12.7
+3.7
+-1.7
+Graduate
+1
+1
+4
+14
+1
+1
+1
+1
+28
+5
+8
+1
+0
+0
+1
+0
+1
+19
+0
+0
+6
+8
+6
+13.375
+0
+0
+6
+7
+6
+12.285714285714286
+0
+11.1
+0.6
+2.02
+Graduate
+1
+1
+1
+12
+1
+1
+1
+13
+14
+4
+8
+0
+0
+0
+1
+0
+0
+19
+0
+0
+7
+8
+6
+13.296666666666669
+0
+0
+8
+9
+7
+14.114285714285714
+0
+11.1
+0.6
+2.02
+Graduate
+1
+1
+1
+10
+1
+1
+1
+13
+28
+10
+10
+1
+0
+1
+1
+0
+1
+18
+0
+0
+6
+8
+5
+11.6
+0
+0
+6
+12
+4
+11.0
+0
+7.6
+2.6
+0.32
+Enrolled
+1
+8
+2
+10
+1
+1
+1
+13
+28
+8
+9
+1
+0
+0
+1
+0
+0
+21
+0
+0
+6
+9
+6
+11.375
+0
+0
+6
+9
+6
+13.285714285714286
+0
+16.2
+0.3
+-0.92
+Graduate
+1
+1
+1
+6
+1
+1
+1
+13
+14
+4
+4
+1
+0
+0
+1
+0
+0
+18
+0
+0
+5
+9
+5
+12.666666666666666
+2
+0
+5
+7
+4
+13.0
+0
+9.4
+-0.8
+-3.12
+Enrolled
+1
+1
+1
+9
+1
+1
+1
+13
+1
+10
+10
+1
+0
+0
+1
+0
+0
+20
+0
+0
+5
+6
+5
+12.0
+0
+0
+5
+6
+5
+12.333333333333334
+0
+16.2
+0.3
+-0.92
+Graduate
+1
+8
+2
+12
+1
+1
+1
+3
+3
+2
+11
+1
+0
+0
+1
+1
+0
+19
+0
+0
+7
+9
+6
+12.933333333333332
+0
+0
+7
+7
+6
+13.716666666666669
+0
+16.2
+0.3
+-0.92
+Enrolled
+1
+15
+1
+4
+1
+14
+1
+4
+5
+5
+3
+0
+0
+0
+1
+1
+0
+21
+0
+0
+6
+15
+5
+11.857142857142858
+0
+0
+6
+17
+5
+10.571428571428571
+0
+16.2
+0.3
+-0.92
+Enrolled
+1
+16
+1
+5
+1
+1
+1
+27
+3
+16
+22
+1
+0
+0
+1
+1
+0
+20
+0
+2
+6
+7
+6
+12.833333333333334
+0
+0
+6
+9
+4
+13.4
+0
+8.9
+1.4
+3.51
+Graduate
+1
+1
+1
+9
+1
+1
+1
+1
+1
+5
+7
+0
+0
+0
+0
+1
+0
+18
+0
+0
+5
+9
+3
+11.333333333333334
+0
+0
+5
+8
+2
+13.5
+0
+8.9
+1.4
+3.51
+Enrolled
+1
+9
+1
+3
+0
+1
+1
+13
+1
+10
+6
+1
+0
+0
+1
+0
+0
+19
+0
+0
+6
+6
+6
+12.666666666666666
+0
+0
+6
+8
+6
+14.375
+0
+12.4
+0.5
+1.79
+Graduate
+1
+1
+1
+17
+0
+1
+1
+2
+27
+4
+10
+0
+0
+0
+1
+1
+0
+34
+0
+0
+5
+6
+5
+12.4
+0
+0
+5
+9
+5
+13.428571428571429
+0
+13.9
+-0.3
+0.79
+Graduate
+1
+12
+1
+1
+1
+1
+1
+23
+27
+10
+7
+0
+0
+1
+0
+1
+0
+37
+0
+0
+7
+7
+0
+0.0
+0
+0
+7
+7
+1
+10.0
+0
+8.9
+1.4
+3.51
+Dropout
+1
+12
+1
+7
+1
+8
+1
+19
+27
+1
+1
+1
+0
+0
+1
+1
+0
+43
+0
+0
+5
+0
+0
+0.0
+0
+0
+5
+0
+0
+0.0
+0
+7.6
+2.6
+0.32
+Dropout
+1
+14
+1
+9
+1
+1
+1
+22
+27
+7
+7
+0
+0
+0
+1
+0
+0
+55
+0
+0
+5
+10
+1
+10.0
+0
+0
+5
+8
+2
+12.0
+2
+16.2
+0.3
+-0.92
+Dropout
+4
+12
+1
+17
+0
+1
+1
+13
+14
+10
+4
+1
+0
+0
+1
+0
+0
+39
+0
+0
+5
+8
+5
+11.0
+0
+0
+5
+5
+5
+11.6
+0
+7.6
+2.6
+0.32
+Graduate
+1
+15
+1
+8
+1
+14
+3
+4
+4
+4
+7
+0
+0
+1
+0
+0
+0
+20
+1
+2
+6
+13
+3
+11.666666666666666
+0
+1
+6
+11
+3
+12.0
+0
+12.4
+0.5
+1.79
+Dropout
+1
+1
+5
+15
+1
+1
+1
+3
+3
+3
+3
+0
+0
+1
+1
+0
+0
+18
+0
+0
+6
+6
+4
+12.75
+0
+0
+5
+5
+0
+0.0
+0
+12.7
+3.7
+-1.7
+Dropout
+1
+1
+2
+9
+1
+1
+1
+3
+14
+3
+8
+1
+0
+0
+1
+0
+0
+22
+0
+0
+5
+5
+5
+14.8
+0
+0
+5
+5
+5
+15.8
+0
+8.9
+1.4
+3.51
+Graduate
+1
+1
+6
+12
+1
+1
+1
+1
+3
+3
+3
+1
+1
+0
+1
+0
+0
+22
+0
+0
+7
+9
+5
+13.928
+0
+0
+8
+9
+7
+14.342857142857142
+0
+11.1
+0.6
+2.02
+Graduate
+1
+8
+1
+15
+1
+1
+1
+1
+28
+6
+6
+0
+0
+0
+0
+0
+0
+20
+0
+0
+6
+7
+4
+13.0
+0
+0
+6
+7
+5
+13.8
+0
+12.4
+0.5
+1.79
+Dropout
+1
+12
+1
+17
+0
+1
+1
+22
+27
+10
+10
+0
+0
+0
+1
+0
+0
+29
+0
+0
+5
+0
+0
+0.0
+0
+0
+5
+0
+0
+0.0
+0
+16.2
+0.3
+-0.92
+Dropout
+1
+8
+1
+17
+0
+1
+1
+23
+28
+5
+6
+0
+0
+0
+1
+0
+0
+24
+0
+0
+5
+9
+2
+11.5
+0
+0
+5
+11
+3
+14.333333333333334
+1
+7.6
+2.6
+0.32
+Enrolled
+1
+8
+2
+10
+1
+1
+1
+13
+14
+10
+10
+1
+0
+0
+1
+0
+0
+18
+0
+0
+6
+6
+6
+11.666666666666666
+0
+0
+6
+8
+5
+13.2
+0
+11.1
+0.6
+2.02
+Graduate
+1
+8
+6
+12
+1
+1
+1
+22
+14
+8
+8
+1
+0
+0
+1
+0
+1
+22
+0
+0
+7
+8
+6
+13.516666666666666
+0
+0
+8
+9
+7
+13.771428571428572
+0
+11.1
+0.6
+2.02
+Graduate
+1
+15
+1
+3
+0
+14
+1
+1
+14
+10
+10
+0
+0
+0
+1
+0
+1
+21
+0
+3
+6
+6
+6
+11.5
+0
+2
+6
+7
+6
+13.285714285714286
+0
+12.4
+0.5
+1.79
+Graduate
+1
+1
+1
+10
+1
+1
+1
+22
+28
+10
+10
+0
+0
+0
+1
+0
+1
+19
+0
+0
+6
+7
+5
+12.333333333333334
+0
+0
+6
+7
+6
+12.833333333333334
+0
+12.7
+3.7
+-1.7
+Graduate
+Data Explorer
+Version 4 (470.86 kB)
+
+
+
+Course
+33 - Biofuel Production Technologies 
+171 - Animation and Multimedia Design 
+8014 - Social Service (evening
+
