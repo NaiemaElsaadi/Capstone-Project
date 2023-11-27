@@ -148,19 +148,19 @@ The detailed report for this project is available on Overleaf. You can access it
  <b> Results for all of the models
     <br>
 ![My Screenshot](Screenshots/Results_df.png)
-  <br>  
+  
 <b>1. Extract and display feature importances and visualize feature importances with a bar plot
-<br>
+
 
 
 ![My Screenshot](Screenshots/Feature_Importance_barplot.png)
 
 
-<br>
+
 <b>2. Correlation of each feature
 ![My Screenshot](Screenshots/FeatureCorrelations.png)
 
-<br>
+
 <b>3. Visualizing the combined ROC curves 
 ![My Screenshot](Screenshots/ROC_Curves.png)
 
