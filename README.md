@@ -125,11 +125,11 @@ The detailed report for this project is available on Overleaf. You can access it
 -  **data :** Contains the dataset used in the project (data.csv).
 - **notebooks:** Jupyter notebooks for data analysis and modeling.
 - **scripts:**  Python scripts for specific tasks.
-- 1_Exploratory_Data_Analysis.ipynb: Notebook for exploratory data analysis.
-- 2_Data_Cleaning_and_Feature_Engineering.ipynb: Notebook for data cleaning and feature engineering.
-- 3_Modeling.ipynb: Notebook for applying machine learning models.
-- 4_model_training.ipynb: Script for training machine learning models.
-- 5_Visualizing.ipynb: Notebook for visualizing the machine learning.
+- **1_Exploratory_Data_Analysis.ipynb:** Notebook for exploratory data analysis.
+- **2_Data_Cleaning_and_Feature_Engineering.ipynb:** Notebook for data cleaning and feature engineering.
+- **3_Modeling.ipynb:** Notebook for applying machine learning models.
+- **4_model_training.ipynb:** Script for training machine learning models.
+- **5_Visualizing.ipynb:** Notebook for visualizing the machine learning.
 - **Final_Project.ipynb:**  Notebook for applying machine learning to the project.
 - **Reports:** [Overleaf Report](https://www.overleaf.com/read/sgvfbcrvqqhn#c4ef91)
 - **text_workbooks.txt:** text workbooks used for data exploration and analysis.
